@@ -13,6 +13,6 @@ For a billion dollar company I find this is quite unfair (personal opinion !).
 
 So I wanted to build a modern documentation website to provide a better access to the language reference with powerful search and cross referencing capabilities.
 
-There is already a great source of support through the [Kuka Robot Forum](https://www.robot-forum.com/robotforum/kuka-robot-forum/). 
+There is already a great source of support through the [Kuka Robot Forum](https://www.robot-forum.com/robotforum/). 
 However, forums are not so great to provide structured content, which this site is all about. Though, they should complete well.
 
